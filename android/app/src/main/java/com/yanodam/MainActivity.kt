@@ -1,4 +1,4 @@
-package com.yanodamrn
+package com.yanodam
 
 import android.os.Bundle
 import com.facebook.react.ReactActivity
@@ -16,7 +16,7 @@ class MainActivity : ReactActivity() {
       super.onCreate(null)
     }
 
-  override fun getMainComponentName(): String = "YanOdamRN"
+  override fun getMainComponentName(): String = "YanOdam"
 
   /**
    * Returns the instance of the [ReactActivityDelegate]. We use [DefaultReactActivityDelegate]

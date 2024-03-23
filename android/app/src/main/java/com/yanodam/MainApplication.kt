@@ -1,4 +1,4 @@
-package com.yanodamrn
+package com.yanodam
 
 import android.app.Application
 import com.facebook.react.PackageList
